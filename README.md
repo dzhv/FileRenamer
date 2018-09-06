@@ -8,7 +8,7 @@ Everything's a mess.
 
 
 Sounds familiar?  
-Well fear no more, as this simple program helps you deal with this issue.  
+Fear no more, as this simple program helps you deal with this issue.  
 It takes a folder and renames all of the files in it by a timestamp of the file's creation date.  
 
 
